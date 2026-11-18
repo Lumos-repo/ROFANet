@@ -1,6 +1,6 @@
 # ROFANet
 
-**Reliable Occlusion-aware Fine-grained Alignment Network**
+**ROFANet: Reliable Occlusion-aware Fine-grained Alignment Network for Text-based Occluded Person Re-Identification**
 
 ROFANet is a framework for **text-based occluded person re-identification (TO-ReID)**. Given a natural-language pedestrian description, it retrieves matching person images from a gallery under occluded conditions.
 
